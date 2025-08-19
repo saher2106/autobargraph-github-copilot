@@ -5,8 +5,7 @@ Autobargraphs is a web application designed to create and display bar graphs dyn
 
 ## Project Structure
 ```
-autobargraphs
-├── src
+src
 │   ├── index.html        # Main HTML document
 │   ├── css
 │   │   └── styles.css    # Custom styles
@@ -14,17 +13,6 @@ autobargraphs
 │       └── main.js       # JavaScript functionality
 └── README.md             # Project documentation
 ```
-
-## Setup Instructions
-1. Clone the repository:
-   ```
-   git clone <repository-url>
-   ```
-2. Navigate to the project directory:
-   ```
-   cd autobargraphs
-   ```
-3. Open the `src/index.html` file in your web browser to view the application.
 
 ## Usage
 - The application allows users to input data for bar graphs.
